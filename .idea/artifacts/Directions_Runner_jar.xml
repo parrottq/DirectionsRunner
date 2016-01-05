@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Directions Runner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Directions_Runner_jar</output-path>
+    <root id="archive" name="Directions Runner.jar">
+      <element id="module-output" name="Directions Runner" />
+    </root>
+  </artifact>
+</component>
